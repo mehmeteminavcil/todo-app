@@ -1,0 +1,18 @@
+.container {
+padding: 38px;
+}
+
+.header{
+    font-size: 50px;
+}
+
+.inputTask{
+ background-color: #E1DEDE;
+ border-radius: 6px;
+ height: 58px;
+ font-size: 30px;
+ padding: 0 20px;
+ border: none;
+ margin-top: 38px;
+ width: 100%;
+}
